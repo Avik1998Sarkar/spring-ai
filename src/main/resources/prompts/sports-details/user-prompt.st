@@ -1,0 +1,1 @@
+List the details of the sport {name} along with their rules and regulations. Show the details in the readable format

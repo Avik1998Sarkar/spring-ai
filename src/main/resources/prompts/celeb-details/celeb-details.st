@@ -1,0 +1,1 @@
+List the details of the famous celebrity {name} along with their Carrier achievements and show the details in the readable format.

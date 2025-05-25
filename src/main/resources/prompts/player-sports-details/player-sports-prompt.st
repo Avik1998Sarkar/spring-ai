@@ -1,0 +1,1 @@
+Generate a list of notable players career achievements for the sports {sports}. The achievements should be in the following format: key and value pairs. {format}
