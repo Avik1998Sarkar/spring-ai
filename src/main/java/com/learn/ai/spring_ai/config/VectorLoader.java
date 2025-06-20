@@ -15,7 +15,7 @@ import org.springframework.core.io.Resource;
 import java.io.File;
 import java.util.List;
 
-@Configuration
+//@Configuration
 public class VectorLoader {
 
     @Value("classpath:/Indian Constitution.pdf")
